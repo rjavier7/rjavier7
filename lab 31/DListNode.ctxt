@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=DListNode
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ dd\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=initValue\ initNext\ initPrevious
+comment1.target=DListNode(java.lang.Object,\ DListNode,\ DListNode)
+comment2.params=initValue
+comment2.target=DListNode(java.lang.Object)
+comment3.params=
+comment3.target=java.lang.Object\ getValue()
+comment4.params=
+comment4.target=DListNode\ getNext()
+comment5.params=
+comment5.target=DListNode\ getPrevious()
+comment6.params=theNewValue
+comment6.target=void\ setValue(java.lang.Object)
+comment7.params=theNewNext
+comment7.target=void\ setNext(DListNode)
+comment8.params=theNewPrevious
+comment8.target=void\ setPrevious(DListNode)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

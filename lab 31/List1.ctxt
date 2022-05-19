@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=List1
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ f\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=List1()
+comment2.params=howMany
+comment2.target=void\ createList(int)
+comment3.params=
+comment3.target=void\ displayFirst()
+comment4.params=
+comment4.target=void\ displayLast()
+comment5.params=
+comment5.target=void\ printList()
+comment6.params=
+comment6.target=void\ size()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9

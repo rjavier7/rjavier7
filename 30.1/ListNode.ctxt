@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=ListNode
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ f\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=initValue\ initNext
+comment1.target=ListNode(java.lang.Object,\ ListNode)
+comment1.text=\r\n\ \ Constructs\ a\ new\ element\ with\ object\ initValue,\r\n\ \ followed\ by\ next\ element\r\n\r\n\ @param\ \ initValue\ \ New\ element\ object\r\n\ @param\ \ initNext\ \ \ Reference\ to\ next\ element\r\n
+comment2.params=initValue
+comment2.target=ListNode(java.lang.Object)
+comment2.text=\r\n\ \ Constructs\ a\ new\ tail\ of\ a\ list\ with\ object\ initValue\r\n\r\n\ @param\ \ initValue\ \ New\ element\ object\r\n
+comment3.params=theNewValue
+comment3.target=void\ setValue(java.lang.Object)
+comment3.text=\r\n\ \ Sets\ the\ value\ attribute\ of\ the\ ListNode\ object\r\n\r\n\ @param\ \ theNewValue\ \ value\ attribute\ of\ the\ ListNode\ object\r\n
+comment4.params=theNewNext
+comment4.target=void\ setNext(ListNode)
+comment4.text=\r\n\ \ Sets\ reference\ to\ new\ next\ value\r\n\r\n\ @param\ \ theNewNext\ \ The\ new\ next\ value\r\n
+comment5.params=
+comment5.target=java.lang.Object\ getValue()
+comment5.text=\r\n\ \ Returns\ value\ associated\ with\ this\ element\r\n\r\n\ @return\ \ \ \ The\ value\ associated\ with\ this\ element\r\n
+comment6.params=
+comment6.target=ListNode\ getNext()
+comment6.text=\r\n\ \ Returns\ reference\ to\ next\ value\ in\ list\r\n\r\n\ @return\ \ \ \ The\ next\ value\ in\ the\ list\r\n
+numComments=7
